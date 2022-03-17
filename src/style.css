@@ -41,3 +41,9 @@ body > img {
 img {
   max-height: 250px;
 }
+
+p {
+  text-align: center;
+color: #ffffff;
+font-size: 42px;
+}
